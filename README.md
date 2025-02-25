@@ -1,4 +1,4 @@
-# COMP1032 Coursework (2023-2024) - Titanic Project  
+#Coursework (2023-2024) - Titanic Project  
 
 ## Overview  
 This project is a data analysis exercise on the Titanic dataset. The goal is to explore, analyze, and visualize various aspects of the dataset using Python and relevant data science libraries.  
